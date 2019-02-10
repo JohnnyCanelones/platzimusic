@@ -69,12 +69,18 @@ export default {
   
   ul 
     list-style-type none
-    padding 0
-  li 
+    display flex
+    flex-wrap wrap
+    justify-content space-between
+    padding 0px 46px
+  li
+    margin-top 60px !important
+    padding 50px
     display inline-block
-    margin 0 10px
+    border 3px dashed #41b883
   a 
     color #42b983
+  
 
     
 </style>
