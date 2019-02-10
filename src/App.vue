@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./assets/logo.png')
+    img(src='dist/logo.png')
     h1 PlatziMusic
     h2 Pais
     select(v-model="selectedCountry")
