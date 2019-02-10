@@ -1,0 +1,4 @@
+Nombre de aplicación	platzimusic
+Clave API	3a8eb17720ce6faae1dc7cf258fc5c4f
+Secreto compartido	35961d7da44fdbeecb03dcc73231f3d2
+Registrado para	johnnycanelones
